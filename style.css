@@ -1,0 +1,20 @@
+@media(min-width: 760px) {
+    .signup-input{
+        width: 70%;
+    }
+}
+.navbar-brand{
+    color: #920dff;
+    font-weight: 700;
+}
+.navbar-bg{
+    background-color: #fff;
+}
+.nav-link{
+    color: #920dff;
+    font-weight: 500;
+}
+
+.navbar-toggler{
+    border-color: #920dff;
+}
